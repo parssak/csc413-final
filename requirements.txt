@@ -1,0 +1,25 @@
+# Python libraries
+numpy
+scipy
+matplotlib
+pandas
+seaborn
+statsmodels
+pandas-datareader
+requests
+tqdm
+tabulate
+
+# Deep Learning framework
+pytorch
+tensorboard
+
+# OpenAI Gym RL framework
+gym
+
+# Server
+torch
+torch-cors
+beautifulsoup4
+pymongo
+apscheduler
